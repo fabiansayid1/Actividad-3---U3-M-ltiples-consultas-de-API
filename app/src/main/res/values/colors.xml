@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF1E1E1E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#FF0D6EFD</color>
+    <color name="blue_dark">#FF1557B0</color>
+    <color name="surface">#FFF5F8FF</color>
+    <color name="muted">#FF667085</color>
+    <color name="subject_coral">#FFF66C77</color>
+    <color name="subject_mint">#FF50BDA2</color>
+    <color name="subject_blue">#FF559BFA</color>
+    <color name="deadline_overdue">#FFD32F2F</color>
+</resources>

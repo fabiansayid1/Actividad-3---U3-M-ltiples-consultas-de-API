@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.StudyPulse" parent="Base.Theme.StudyPulse">
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/study_pulse_launcher</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#FFFFFF</item>
+    </style>
+</resources>
